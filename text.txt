@@ -5,3 +5,5 @@ drugi commit
 novi feature u app
 
 prvi commit u newFeature
+
+drugi commit u nF
